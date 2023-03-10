@@ -44,6 +44,7 @@ console.log(arr);
   
 //   // example usage:
 //   const arr = [1,2,3,4,5,6,7,8,9,10];
+//   const arr2 = [11,12,13,14,15,16,17,18,19,10];
 //   const k = 3;
 //   const rotated = rotateArray(arr, k);
 //   console.log(rotated); // [4,5,6,7,8,9,10,1,2,3]
